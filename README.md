@@ -66,7 +66,7 @@
 		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
 	</a>
 	&emsp;
-	=
+	
 </div>
 <hr>
 <img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">

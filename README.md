@@ -1,6 +1,5 @@
 # 👋Hello, I'm Yu Jeen
 <div style='font-size:1.2em'>
-	<b>Cybersecurity graduate, Self-taught front-end developer</b>
 </div>
 
 <br>
